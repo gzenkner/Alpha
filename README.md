@@ -4,11 +4,12 @@ Extracts an alphabetic substring from any number of sources and prints the entir
 
 Python 3.11.1
 
+It is possible to execute the solution.exe file located under dist.
 ## example: run solution.exe in command
 
     solution.exe test_file_1.txt
 
-
+Alternatively, the solution.py file can be run
 ## example: run solution.py in command
 
     python solution.py test_file_1.txt
